@@ -1,0 +1,19 @@
+body{ 
+	background-color: yellow;
+
+}
+/*RWD using @media*/
+@media screen and (max-width: 992px) {
+	
+		body{
+		background-color: blue;
+		}
+		
+}
+
+@media screen and (max-width: 600px) {
+	body{
+		background-color: olive;
+	}
+}
+
